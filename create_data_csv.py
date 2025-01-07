@@ -64,7 +64,9 @@ vendas = {
     "ID_Vendedor": np.random.choice(df_vendedores["ID_Vendedor"], size=num_vendas),
     "Quantidade": np.random.randint(1, 10, num_vendas),
     "Valor_Unitario": np.random.uniform(10.0, 1000.0, num_vendas).round(2),
-    "Desconto": np.random.uniform(0.0, 50.0, num_vendas).round(2)
+    "Desconto": np.random.uniform(0.0, 50.0, num_vendas).round(2),
+    "Metodo_Pagamento": np.random.choice(["Cartão de Crédito", "Paypal", "MBWay", "Dinheiro"], size=num_vendas),
+    "Status_Venda": np.random.choice(["Concluída", "Pendente", "Cancelada"], size=num_vendas)
 }
 df_vendas = pd.DataFrame(vendas)
 df_vendas["Valor_Total"] = (df_vendas["Quantidade"] * df_vendas["Valor_Unitario"]).round(2)

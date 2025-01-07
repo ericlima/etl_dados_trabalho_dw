@@ -1,101 +1,101 @@
 ID_Cliente,Nome_Cliente,Data_Nascimento,Genero,Categoria_Cliente,Cidade,Estado,Pais
-1,Cliente_1,1970-01-31,M,Regular,Rio de Janeiro,BA,Brasil
-2,Cliente_2,1970-02-28,F,Regular,Rio de Janeiro,RJ,Brasil
-3,Cliente_3,1970-03-31,M,Regular,Curitiba,PR,Brasil
-4,Cliente_4,1970-04-30,F,VIP,Curitiba,RJ,Brasil
-5,Cliente_5,1970-05-31,M,VIP,São Paulo,SP,Brasil
-6,Cliente_6,1970-06-30,F,Regular,São Paulo,PR,Brasil
-7,Cliente_7,1970-07-31,F,Regular,Salvador,SP,Brasil
-8,Cliente_8,1970-08-31,M,Regular,Curitiba,PR,Brasil
-9,Cliente_9,1970-09-30,M,VIP,Curitiba,BA,Brasil
-10,Cliente_10,1970-10-31,F,VIP,Curitiba,SP,Brasil
-11,Cliente_11,1970-11-30,M,VIP,Rio de Janeiro,BA,Brasil
-12,Cliente_12,1970-12-31,M,VIP,São Paulo,BA,Brasil
-13,Cliente_13,1971-01-31,F,VIP,Rio de Janeiro,SP,Brasil
-14,Cliente_14,1971-02-28,M,Regular,Salvador,SP,Brasil
-15,Cliente_15,1971-03-31,M,Regular,Rio de Janeiro,SP,Brasil
-16,Cliente_16,1971-04-30,F,VIP,Salvador,RJ,Brasil
-17,Cliente_17,1971-05-31,M,Regular,Curitiba,SP,Brasil
-18,Cliente_18,1971-06-30,M,VIP,Salvador,PR,Brasil
-19,Cliente_19,1971-07-31,F,VIP,Rio de Janeiro,SP,Brasil
+1,Cliente_1,1970-01-31,M,VIP,Salvador,SP,Brasil
+2,Cliente_2,1970-02-28,M,Regular,Salvador,PR,Brasil
+3,Cliente_3,1970-03-31,M,VIP,Rio de Janeiro,BA,Brasil
+4,Cliente_4,1970-04-30,M,Regular,Curitiba,RJ,Brasil
+5,Cliente_5,1970-05-31,F,Regular,São Paulo,RJ,Brasil
+6,Cliente_6,1970-06-30,F,Regular,Rio de Janeiro,RJ,Brasil
+7,Cliente_7,1970-07-31,F,VIP,Curitiba,BA,Brasil
+8,Cliente_8,1970-08-31,M,VIP,Curitiba,SP,Brasil
+9,Cliente_9,1970-09-30,M,Regular,Curitiba,SP,Brasil
+10,Cliente_10,1970-10-31,M,Regular,Salvador,PR,Brasil
+11,Cliente_11,1970-11-30,F,Regular,Salvador,PR,Brasil
+12,Cliente_12,1970-12-31,M,Regular,São Paulo,SP,Brasil
+13,Cliente_13,1971-01-31,F,VIP,São Paulo,RJ,Brasil
+14,Cliente_14,1971-02-28,F,VIP,Salvador,PR,Brasil
+15,Cliente_15,1971-03-31,M,Regular,Salvador,RJ,Brasil
+16,Cliente_16,1971-04-30,M,Regular,São Paulo,SP,Brasil
+17,Cliente_17,1971-05-31,F,Regular,Curitiba,BA,Brasil
+18,Cliente_18,1971-06-30,M,VIP,Salvador,BA,Brasil
+19,Cliente_19,1971-07-31,M,VIP,São Paulo,SP,Brasil
 20,Cliente_20,1971-08-31,F,Regular,Rio de Janeiro,SP,Brasil
-21,Cliente_21,1971-09-30,F,Regular,Salvador,PR,Brasil
-22,Cliente_22,1971-10-31,M,VIP,Salvador,PR,Brasil
-23,Cliente_23,1971-11-30,M,Regular,São Paulo,PR,Brasil
-24,Cliente_24,1971-12-31,F,VIP,Rio de Janeiro,SP,Brasil
-25,Cliente_25,1972-01-31,F,Regular,Salvador,BA,Brasil
-26,Cliente_26,1972-02-29,M,VIP,São Paulo,BA,Brasil
-27,Cliente_27,1972-03-31,F,VIP,Salvador,RJ,Brasil
-28,Cliente_28,1972-04-30,M,Regular,Rio de Janeiro,SP,Brasil
-29,Cliente_29,1972-05-31,M,Regular,Curitiba,BA,Brasil
-30,Cliente_30,1972-06-30,F,VIP,Salvador,RJ,Brasil
-31,Cliente_31,1972-07-31,M,Regular,Curitiba,BA,Brasil
-32,Cliente_32,1972-08-31,M,Regular,São Paulo,PR,Brasil
-33,Cliente_33,1972-09-30,M,Regular,Rio de Janeiro,RJ,Brasil
-34,Cliente_34,1972-10-31,F,VIP,Rio de Janeiro,RJ,Brasil
-35,Cliente_35,1972-11-30,M,Regular,São Paulo,SP,Brasil
-36,Cliente_36,1972-12-31,F,VIP,Rio de Janeiro,BA,Brasil
-37,Cliente_37,1973-01-31,M,VIP,Rio de Janeiro,RJ,Brasil
+21,Cliente_21,1971-09-30,F,VIP,Salvador,BA,Brasil
+22,Cliente_22,1971-10-31,F,VIP,Rio de Janeiro,SP,Brasil
+23,Cliente_23,1971-11-30,F,VIP,Curitiba,BA,Brasil
+24,Cliente_24,1971-12-31,M,VIP,São Paulo,BA,Brasil
+25,Cliente_25,1972-01-31,M,VIP,Rio de Janeiro,RJ,Brasil
+26,Cliente_26,1972-02-29,F,VIP,Rio de Janeiro,RJ,Brasil
+27,Cliente_27,1972-03-31,F,VIP,São Paulo,SP,Brasil
+28,Cliente_28,1972-04-30,M,Regular,São Paulo,BA,Brasil
+29,Cliente_29,1972-05-31,M,VIP,São Paulo,PR,Brasil
+30,Cliente_30,1972-06-30,F,Regular,Curitiba,SP,Brasil
+31,Cliente_31,1972-07-31,M,Regular,Rio de Janeiro,RJ,Brasil
+32,Cliente_32,1972-08-31,F,Regular,São Paulo,SP,Brasil
+33,Cliente_33,1972-09-30,M,Regular,Salvador,SP,Brasil
+34,Cliente_34,1972-10-31,F,Regular,Rio de Janeiro,RJ,Brasil
+35,Cliente_35,1972-11-30,F,Regular,São Paulo,SP,Brasil
+36,Cliente_36,1972-12-31,F,Regular,Curitiba,BA,Brasil
+37,Cliente_37,1973-01-31,F,Regular,Salvador,PR,Brasil
 38,Cliente_38,1973-02-28,M,Regular,Curitiba,PR,Brasil
-39,Cliente_39,1973-03-31,F,Regular,Rio de Janeiro,SP,Brasil
-40,Cliente_40,1973-04-30,M,VIP,Rio de Janeiro,RJ,Brasil
-41,Cliente_41,1973-05-31,M,VIP,Salvador,BA,Brasil
-42,Cliente_42,1973-06-30,M,Regular,São Paulo,BA,Brasil
-43,Cliente_43,1973-07-31,F,VIP,São Paulo,PR,Brasil
-44,Cliente_44,1973-08-31,F,VIP,Rio de Janeiro,SP,Brasil
-45,Cliente_45,1973-09-30,F,Regular,Rio de Janeiro,PR,Brasil
-46,Cliente_46,1973-10-31,F,VIP,Curitiba,RJ,Brasil
-47,Cliente_47,1973-11-30,F,Regular,São Paulo,SP,Brasil
-48,Cliente_48,1973-12-31,F,Regular,São Paulo,SP,Brasil
-49,Cliente_49,1974-01-31,M,VIP,Rio de Janeiro,PR,Brasil
-50,Cliente_50,1974-02-28,F,Regular,Rio de Janeiro,PR,Brasil
-51,Cliente_51,1974-03-31,F,Regular,São Paulo,RJ,Brasil
-52,Cliente_52,1974-04-30,M,VIP,Curitiba,RJ,Brasil
-53,Cliente_53,1974-05-31,F,Regular,Rio de Janeiro,SP,Brasil
-54,Cliente_54,1974-06-30,F,VIP,Rio de Janeiro,PR,Brasil
-55,Cliente_55,1974-07-31,M,Regular,Salvador,RJ,Brasil
-56,Cliente_56,1974-08-31,M,VIP,São Paulo,SP,Brasil
+39,Cliente_39,1973-03-31,F,VIP,Salvador,BA,Brasil
+40,Cliente_40,1973-04-30,M,VIP,São Paulo,PR,Brasil
+41,Cliente_41,1973-05-31,F,Regular,Rio de Janeiro,PR,Brasil
+42,Cliente_42,1973-06-30,F,VIP,Salvador,SP,Brasil
+43,Cliente_43,1973-07-31,F,Regular,Salvador,BA,Brasil
+44,Cliente_44,1973-08-31,M,Regular,Curitiba,PR,Brasil
+45,Cliente_45,1973-09-30,M,Regular,Rio de Janeiro,PR,Brasil
+46,Cliente_46,1973-10-31,F,VIP,Salvador,BA,Brasil
+47,Cliente_47,1973-11-30,F,Regular,Rio de Janeiro,BA,Brasil
+48,Cliente_48,1973-12-31,F,Regular,Salvador,RJ,Brasil
+49,Cliente_49,1974-01-31,F,Regular,Rio de Janeiro,RJ,Brasil
+50,Cliente_50,1974-02-28,F,Regular,Curitiba,SP,Brasil
+51,Cliente_51,1974-03-31,M,Regular,São Paulo,RJ,Brasil
+52,Cliente_52,1974-04-30,M,Regular,Rio de Janeiro,SP,Brasil
+53,Cliente_53,1974-05-31,M,VIP,São Paulo,BA,Brasil
+54,Cliente_54,1974-06-30,M,VIP,Curitiba,BA,Brasil
+55,Cliente_55,1974-07-31,M,VIP,Salvador,PR,Brasil
+56,Cliente_56,1974-08-31,M,Regular,São Paulo,SP,Brasil
 57,Cliente_57,1974-09-30,M,VIP,Curitiba,PR,Brasil
-58,Cliente_58,1974-10-31,F,Regular,Rio de Janeiro,BA,Brasil
-59,Cliente_59,1974-11-30,M,VIP,São Paulo,PR,Brasil
-60,Cliente_60,1974-12-31,F,VIP,Salvador,RJ,Brasil
-61,Cliente_61,1975-01-31,M,Regular,Curitiba,PR,Brasil
-62,Cliente_62,1975-02-28,M,VIP,Salvador,RJ,Brasil
-63,Cliente_63,1975-03-31,F,Regular,Curitiba,SP,Brasil
-64,Cliente_64,1975-04-30,F,Regular,Salvador,PR,Brasil
-65,Cliente_65,1975-05-31,F,Regular,São Paulo,BA,Brasil
-66,Cliente_66,1975-06-30,F,VIP,Curitiba,SP,Brasil
-67,Cliente_67,1975-07-31,M,Regular,Curitiba,BA,Brasil
-68,Cliente_68,1975-08-31,M,VIP,São Paulo,BA,Brasil
-69,Cliente_69,1975-09-30,F,VIP,São Paulo,SP,Brasil
-70,Cliente_70,1975-10-31,M,VIP,Rio de Janeiro,PR,Brasil
-71,Cliente_71,1975-11-30,F,VIP,Rio de Janeiro,SP,Brasil
-72,Cliente_72,1975-12-31,F,VIP,Salvador,SP,Brasil
-73,Cliente_73,1976-01-31,M,VIP,Rio de Janeiro,RJ,Brasil
-74,Cliente_74,1976-02-29,M,VIP,São Paulo,RJ,Brasil
-75,Cliente_75,1976-03-31,M,Regular,Curitiba,BA,Brasil
-76,Cliente_76,1976-04-30,F,VIP,Rio de Janeiro,PR,Brasil
-77,Cliente_77,1976-05-31,M,VIP,Rio de Janeiro,RJ,Brasil
+58,Cliente_58,1974-10-31,M,VIP,Rio de Janeiro,BA,Brasil
+59,Cliente_59,1974-11-30,M,Regular,São Paulo,SP,Brasil
+60,Cliente_60,1974-12-31,F,VIP,São Paulo,PR,Brasil
+61,Cliente_61,1975-01-31,F,Regular,Salvador,PR,Brasil
+62,Cliente_62,1975-02-28,F,Regular,Rio de Janeiro,BA,Brasil
+63,Cliente_63,1975-03-31,F,VIP,Curitiba,PR,Brasil
+64,Cliente_64,1975-04-30,M,Regular,Salvador,PR,Brasil
+65,Cliente_65,1975-05-31,M,VIP,São Paulo,PR,Brasil
+66,Cliente_66,1975-06-30,M,VIP,Rio de Janeiro,BA,Brasil
+67,Cliente_67,1975-07-31,F,Regular,Rio de Janeiro,RJ,Brasil
+68,Cliente_68,1975-08-31,F,Regular,Curitiba,RJ,Brasil
+69,Cliente_69,1975-09-30,M,Regular,Curitiba,RJ,Brasil
+70,Cliente_70,1975-10-31,M,VIP,São Paulo,RJ,Brasil
+71,Cliente_71,1975-11-30,M,Regular,São Paulo,RJ,Brasil
+72,Cliente_72,1975-12-31,M,VIP,Salvador,SP,Brasil
+73,Cliente_73,1976-01-31,F,Regular,Rio de Janeiro,BA,Brasil
+74,Cliente_74,1976-02-29,F,Regular,Curitiba,BA,Brasil
+75,Cliente_75,1976-03-31,F,Regular,Curitiba,RJ,Brasil
+76,Cliente_76,1976-04-30,M,VIP,Salvador,PR,Brasil
+77,Cliente_77,1976-05-31,F,Regular,Curitiba,SP,Brasil
 78,Cliente_78,1976-06-30,F,VIP,Rio de Janeiro,BA,Brasil
-79,Cliente_79,1976-07-31,F,Regular,São Paulo,SP,Brasil
-80,Cliente_80,1976-08-31,M,VIP,Salvador,SP,Brasil
-81,Cliente_81,1976-09-30,M,VIP,Salvador,SP,Brasil
-82,Cliente_82,1976-10-31,M,Regular,Rio de Janeiro,BA,Brasil
-83,Cliente_83,1976-11-30,M,Regular,Rio de Janeiro,RJ,Brasil
-84,Cliente_84,1976-12-31,M,Regular,Salvador,BA,Brasil
-85,Cliente_85,1977-01-31,M,VIP,Rio de Janeiro,RJ,Brasil
-86,Cliente_86,1977-02-28,F,Regular,Rio de Janeiro,PR,Brasil
-87,Cliente_87,1977-03-31,M,Regular,Rio de Janeiro,SP,Brasil
-88,Cliente_88,1977-04-30,F,Regular,Curitiba,PR,Brasil
-89,Cliente_89,1977-05-31,M,VIP,Salvador,RJ,Brasil
-90,Cliente_90,1977-06-30,F,Regular,Rio de Janeiro,PR,Brasil
-91,Cliente_91,1977-07-31,M,VIP,Rio de Janeiro,SP,Brasil
-92,Cliente_92,1977-08-31,F,Regular,Curitiba,BA,Brasil
-93,Cliente_93,1977-09-30,M,Regular,São Paulo,BA,Brasil
-94,Cliente_94,1977-10-31,F,Regular,Rio de Janeiro,BA,Brasil
-95,Cliente_95,1977-11-30,F,VIP,Salvador,SP,Brasil
-96,Cliente_96,1977-12-31,M,Regular,São Paulo,BA,Brasil
-97,Cliente_97,1978-01-31,F,Regular,Salvador,BA,Brasil
-98,Cliente_98,1978-02-28,M,Regular,Salvador,PR,Brasil
-99,Cliente_99,1978-03-31,F,Regular,Rio de Janeiro,BA,Brasil
-100,Cliente_100,1978-04-30,F,Regular,Salvador,SP,Brasil
+79,Cliente_79,1976-07-31,F,VIP,Curitiba,PR,Brasil
+80,Cliente_80,1976-08-31,F,Regular,Curitiba,SP,Brasil
+81,Cliente_81,1976-09-30,M,VIP,São Paulo,BA,Brasil
+82,Cliente_82,1976-10-31,M,VIP,São Paulo,RJ,Brasil
+83,Cliente_83,1976-11-30,F,VIP,Rio de Janeiro,BA,Brasil
+84,Cliente_84,1976-12-31,M,VIP,Rio de Janeiro,PR,Brasil
+85,Cliente_85,1977-01-31,M,VIP,Salvador,SP,Brasil
+86,Cliente_86,1977-02-28,M,Regular,Curitiba,SP,Brasil
+87,Cliente_87,1977-03-31,F,VIP,Rio de Janeiro,SP,Brasil
+88,Cliente_88,1977-04-30,M,VIP,Rio de Janeiro,RJ,Brasil
+89,Cliente_89,1977-05-31,F,Regular,Rio de Janeiro,SP,Brasil
+90,Cliente_90,1977-06-30,M,VIP,Salvador,PR,Brasil
+91,Cliente_91,1977-07-31,F,VIP,Salvador,PR,Brasil
+92,Cliente_92,1977-08-31,F,VIP,Salvador,PR,Brasil
+93,Cliente_93,1977-09-30,M,VIP,Rio de Janeiro,PR,Brasil
+94,Cliente_94,1977-10-31,M,Regular,São Paulo,BA,Brasil
+95,Cliente_95,1977-11-30,F,Regular,São Paulo,SP,Brasil
+96,Cliente_96,1977-12-31,M,VIP,Salvador,RJ,Brasil
+97,Cliente_97,1978-01-31,F,Regular,São Paulo,PR,Brasil
+98,Cliente_98,1978-02-28,M,Regular,São Paulo,RJ,Brasil
+99,Cliente_99,1978-03-31,F,Regular,Curitiba,BA,Brasil
+100,Cliente_100,1978-04-30,M,Regular,São Paulo,RJ,Brasil
