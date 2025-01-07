@@ -1,5 +1,5 @@
-Instituto Politecnico de Castelo Branco
-Mestrado em Engenharia de Informatica
+Instituto Politécnico de Castelo Branco
+Mestrado em Engenharia de Informática
 Data Warehousing (M EINF DSSI)
 
 Alunos: Eric Lima, Evaldina Graça, Rafael Jesus
