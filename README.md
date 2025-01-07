@@ -1,3 +1,10 @@
+Instituto Politecnico de Castelo Branco
+Mestrado em Engenharia de Informatica
+Data Warehousing (M EINF DSSI)
+
+Alunos: Eric Lima, Evaldina Graça, Rafael Jesus
+
+
 1. habilite o virtual environment
 
     python -m venv env
