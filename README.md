@@ -23,3 +23,4 @@ Alunos: Eric Lima, Evaldina Graça, Rafael Jesus
 5. execute o etl.py
 
     python ./etl.py
+
