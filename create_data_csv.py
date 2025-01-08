@@ -49,7 +49,7 @@ df_tempo = pd.DataFrame(tempo)
 vendedores = {
     "ID_Vendedor": np.arange(1, num_vendedores + 1),
     "Nome_Vendedor": [f"Vendedor_{i}" for i in range(1, num_vendedores + 1)],
-    "Regiao": np.random.choice(["Sul", "Sudeste", "Nordeste"], size=num_vendedores),
+    "Regiao": np.random.choice(["Norte", "Centro", "Algarve"], size=num_vendedores),
     "Data_Contratacao": pd.date_range(start="2015-01-01", periods=num_vendedores, freq="Y")
 }
 df_vendedores = pd.DataFrame(vendedores)
