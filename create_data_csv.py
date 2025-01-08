@@ -15,9 +15,8 @@ clientes = {
     "Data_Nascimento": pd.date_range(start="1970-01-01", periods=num_clientes, freq="M"),
     "Genero": np.random.choice(["M", "F"], size=num_clientes),
     "Categoria_Cliente": np.random.choice(["Regular", "VIP"], size=num_clientes),
-    "Cidade": np.random.choice(["São Paulo", "Rio de Janeiro", "Curitiba", "Salvador"], size=num_clientes),
-    "Estado": np.random.choice(["SP", "RJ", "PR", "BA"], size=num_clientes),
-    "Pais": ["Brasil"] * num_clientes
+    "Cidade": np.random.choice(["Lisboa", "Porto", "Castelo Branco", "Fátima"], size=num_clientes),
+    "Pais": ["Portugal"] * num_clientes
 }
 df_clientes = pd.DataFrame(clientes)
 

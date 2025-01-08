@@ -8,7 +8,6 @@ CREATE TABLE Dim_Cliente (
     Genero CHAR(1),
     Categoria_Cliente NVARCHAR(50),
     Cidade NVARCHAR(100),
-    Estado NVARCHAR(50),
     Pais NVARCHAR(50)
 );
 
