@@ -5,7 +5,7 @@ import numpy as np
 num_clientes = 100
 num_produtos = 50
 num_vendedores = 20
-num_dias = (365 * 10) + 10
+num_dias = (365 * 4) + 2
 num_vendas = 15000
 
 # Geração da Dimensão Cliente
