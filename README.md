@@ -2,7 +2,7 @@ Instituto Politécnico de Castelo Branco
 Mestrado em Engenharia de Informática
 Data Warehousing (M EINF DSSI)
 
-Alunos: Eric Lima, Evaldina Graça, Rafael Jesus
+Alunos: Eric Lima, Evaldina Graça, Rafael Jesus, Gerson Muel, Alex Seles
 
 
 1. habilite o virtual environment
